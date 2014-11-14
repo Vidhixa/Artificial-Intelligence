@@ -1,0 +1,12 @@
+Answers to part-III
+
+1. The nature of graph for 8puzzle is such that we can go on expanding its children and not reach the optimal solution incurring computational and memory costs. The "real difficult" problem is to select the child node to expand which might lead  to an optimal solution. Example: In DFS, we keep expanding the node in one direction without realizing if sibling of child is solution.
+
+2. From the trend, the states generated are much greater than the depth. States generated increases exponentially for each increase in depth. The maximum growth in number of nodes is square of the number of existing nodes at that level. After a point when the nodes to generate will be limited(due to presence in closed list), both will increase steadily.
+
+3. From the graph, the branching factor will tell us ratio of number of nodes at a child depth to number of number of nodes at parent depth.
+BFS and DFS: Branching factor is higher.
+Hamming Distance and Manhattan Distance: branching reduces as only one branch is expanded. 
+A-star: Branching factor is lesser is lesser.
+
+4. For depth first search, many of the problems did not lead to a solution within given limits of states to generate. Even for BFS, the harder problems did not lead to solution within given limits. Reason is exponential growth of graph and expansion of each node by BFS.

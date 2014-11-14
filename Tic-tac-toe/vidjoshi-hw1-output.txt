@@ -1,0 +1,78 @@
+Vidhixa joshi (vidjoshi)
+
+Select your choice: X or O
+Choice: x
+Your turn
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Select: 8
+  | X |
+  |   |
+  |   |
+
+
+Bot's turn
+  | X |
+  | 0 |
+  |   |
+
+
+Your turn
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Select: 2
+  | X |
+  | 0 |
+  | X |
+
+
+Bot's turn
+  | X |
+  | 0 |
+0 | X |
+
+
+Your turn
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Select: 9
+  | X | X
+  | 0 |
+0 | X |
+
+
+Bot's turn
+0 | X | X
+  | 0 |
+0 | X |
+
+
+Your turn
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Select: 3
+0 | X | X
+  | 0 |
+0 | X | X
+
+
+Bot's turn
+0 | X | X
+0 | 0 |
+0 | X | X
+*************************
+0 won!!!
+*************************
+

@@ -1,0 +1,45 @@
+7
+Enter your choice for informed search: 
+ 1. Hamming distance heuristic 
+ 2. Manhattan distance 
+ 3. A* 
+Choice: 1
+Heuristic Hamming distance  :::
+Number of nodes seen :::  25
+Time taken to fund solution :::  0.000999927520752
+Number of runs :::  8
+Depth of tree :::  2
+
+
+
+
+  1   2   3   
+------------
+  4   5   6   
+------------
+      7   8   
+------------
+
+
+
+
+  1   2   3   
+------------
+  4   5   6   
+------------
+  7       8   
+------------
+
+
+
+
+  1   2   3   
+------------
+  4   5   6   
+------------
+  7   8       
+------------
+
+
+
+
